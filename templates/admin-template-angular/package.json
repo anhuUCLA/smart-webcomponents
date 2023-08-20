@@ -22,7 +22,7 @@
     "bootstrap": "^5.2.0-beta1",
     "github-buttons": "^2.21.1",
     "rxjs": "~7.5.0",
-    "smart-webcomponents-angular": "^14.0.87",
+    "smart-webcomponents-angular": "^14.7.1",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
