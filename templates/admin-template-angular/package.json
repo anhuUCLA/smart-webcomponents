@@ -23,7 +23,7 @@
     "github-buttons": "^2.21.1",
     "rxjs": "~7.5.0",
     "smart-webcomponents-angular": "^14.0.87",
-    "tslib": "^2.3.0",
+    "tslib": "^2.6.1",
     "zone.js": "~0.11.4"
   },
   "devDependencies": {
